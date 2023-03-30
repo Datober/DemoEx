@@ -27,5 +27,10 @@ namespace Cтройматериалы
         {
             //Кнопка позволяет перейти на новое окно авторизированным, если пройденое условие
         }
+
+        private void ButtonAuto_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

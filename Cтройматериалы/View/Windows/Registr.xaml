@@ -59,19 +59,19 @@
             FontSize="16
             "
             x:Name="ButtonAuto"
-            Click="btnAuth_Click"
+            Click="ButtonAuto_Click"
             Grid.Row="5"
             Height="32"
             Width="122"
             Content="Авторизоваться"
             Margin="0,21,250,-11"
-            HorizontalAlignment="Right" Foreground="#FF151515" Background="#FF498C51"
+            HorizontalAlignment="Right" Foreground="#FF151515" Background="#FF498C51" FontFamily="Comic Sans MS"
             />
         <Button
             FontSize="18
             "
             x:Name="ButtonGuest"
-            Click="btnAuth_Click"
+            Click="ButtonGuest_Click"
             Grid.Row="5"
             
             Width="106"
